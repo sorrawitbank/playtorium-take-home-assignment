@@ -1,0 +1,14 @@
+{
+  "coupon": {
+    "type": "percentage",
+    "percentage": 10
+  },
+  "onTop": {
+    "type": "points",
+    "points": 68
+  },
+  "seasonal": {
+    "everyX": 300,
+    "discountY": 40
+  }
+}
